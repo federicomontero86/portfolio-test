@@ -99,7 +99,7 @@ export const projectsData = [
       "This is the internal application used inside the resort to check in guests as they arrive.",
     tags: ["Styled Components", "React Query", "React Hook Form"],
     imageUrl: wildOasisAdminPageImg,
-    url: "https://thewildoasisresort.vercel.app/",
+    url: "https://thewildoasisadminpage.vercel.app",
   },
   {
     title: "Fast React Pizza",
